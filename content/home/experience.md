@@ -22,19 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Research Assistant
+    company: Silence Laboratories
+    company_url: 'https://silencelaboratories.com/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Singapore
+    date_start: '2020-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
+        Project 1: Proximity detection and verification of devices
+        Designed a robust system aimed at verifying co-presence of two or multi-party systems using acoustic information and pair them using shared secret key. Achieved accuracy of $>$92\% across different scenarios when tested in noisy markets of India.
         
-        * Analysing
-        * Modelling
-        * Deploying
+        Project 2: Landmark extraction from infrastructure for seamless indoor mobility
+        Developed a human activity detection engine using mobile sensors data and WiFi AP to substantiate proof-of-attempt for multiple use-cases.
+        
+        Project 3: Inertial sensor based authentication systems
+        Developed a human activity detection engine using mobile sensors data and WiFi AP to substantiate proof-of-attempt for multiple use-cases.
+     
+        Project 4: Tracking of gestures
+        Developed a real-time syste to track human gestures done using mobile device and verify them with minimal false-positive rates. 
+        
+        All the projects are in line to be deployed with agreed customer companies as part of trials and filed as patents.
+
         
   - title: Professor of Semiconductor Physics
     company: University X
