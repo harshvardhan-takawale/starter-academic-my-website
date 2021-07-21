@@ -39,6 +39,6 @@ highlight_name: false
 ---
 I am a Research Assistant at Silence Laboratories. We work on creating solutions to real-world problems using the knowledge of sensing, wireless networks and security paradigms. My recent work revolves around developing signal processing algorithms for Acoustic and IMU sensor signals.
 
-I recently finished my B.E in Electronics and Electrical Engineering and Data Science(Minor) at BITS, Pilani - Hyderabad campus. My research interests are mobile computing, sensing, signal processing, security, wireless networks, acoustics, applied machine learning.
+I finished my B.E in Electronics and Electrical Engineering and Data Science(Minor) at BITS, Pilani - Hyderabad campus in August 2020. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Harsh_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
