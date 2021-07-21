@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Proceedings of the 12th ACM Workshop on Artificial Intelligence and Security"
   organization_url = ""
-  title = "Malware Detection on Highly Imbalanced Data through Sequence~Modeling"
+  title = "Malware Detection on Highly Imbalanced Data through Sequence Modeling"
   url = "https://dl.acm.org/doi/pdf/10.1145/3338501.3357374"
   certificate_url = ""
   date_start = "2019-11-30"
