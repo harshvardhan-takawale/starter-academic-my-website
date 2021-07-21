@@ -39,7 +39,7 @@ experience:
         Developed a human activity detection engine using mobile sensors data and WiFi AP to substantiate proof-of-attempt for multiple use-cases.
      
         Project 4: Tracking of gestures
-        Developed a real-time syste to track human gestures done using mobile device and verify them with minimal false-positive rates. 
+        Developed a real-time system to track human gestures done using mobile device and verified them with minimal false-positive rates. 
         
         All the projects are in line to be deployed with agreed customer companies as part of trials and filed as patents.
 
