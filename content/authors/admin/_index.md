@@ -2,16 +2,16 @@
 title: Harshvardhan Takawale
 role: Research Assistant, SUTD
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Mobile computing, Sensing, Signal Processing,
+  Security, Wireless networks, Acoustics, Applied Machine Learning
 interests:
+  - Mobile computing
   - Sensing
   - Signal Processing
-  - Applied Machine Learning
+  - Security
   - Wireless networks
-  - Ubiquitous computing
-  - Applied Physics
   - Acoustics
+  - Applied Machine Learning
 social:
   - icon: twitter
     icon_pack: fab
