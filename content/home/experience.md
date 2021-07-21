@@ -54,7 +54,7 @@ experience:
     date_end: '2020-07-31'
     description: 
 
-         Title: Malware Detection on Highly Imbalanced Data through Sequence Modeling
+         Porject: Malware Detection on Highly Imbalanced Data through Sequence Modeling(undergraduate thesis)
 
          Performed dynamic analysis on mobile application activity sequences for the purpose of malware detection on highly imbalanced dataset.
 
