@@ -52,12 +52,9 @@ experience:
     location: Singapore
     date_start: '2020-01-01'
     date_end: '2020-07-31'
-    description: 
-
+    description: |2-
          Porject: Malware Detection on Highly Imbalanced Data through Sequence Modeling(undergraduate thesis)
-
          Performed dynamic analysis on mobile application activity sequences for the purpose of malware detection on highly imbalanced dataset.
-
          Used the state-of-the-art language representation model BERT, to create a sequential model and achieved an F1 score of 0.919 with just 0.5\% of the examples being malware in the dataset.
 
 design:
