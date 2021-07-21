@@ -1,6 +1,6 @@
 ---
 title: Harshvardhan Takawale
-role: Research Assistant, Silence Laboratories(SUTD)
+role: Research Assistant, SUTD
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
