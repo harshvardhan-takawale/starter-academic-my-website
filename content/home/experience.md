@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Silence Laboratories
     company_url: 'https://silencelaboratories.com/'
-    company_logo: 
+    company_logo: org-gc
     location: Singapore
     date_start: '2020-07-01'
     date_end: ''
@@ -48,7 +48,7 @@ experience:
   - title: Security Research Intern
     company: Cyber Security Research Centre @ NTU, Singapore 
     company_url: ''
-    company_logo: 
+    company_logo: org-x
     location: Singapore
     date_start: '2020-01-01'
     date_end: '2020-07-31'
