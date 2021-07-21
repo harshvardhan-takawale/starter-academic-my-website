@@ -24,22 +24,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_start: "2019-11-25"
-  description: "Rajvardhan Oak, Min  Du, David  Yan, Harshvardhan Takawale and Idan Amit"
+  description: |2- "Rajvardhan Oak, Min  Du, David  Yan, Harshvardhan Takawale and Idan Amit"
   organization: Proceedings of the 12th ACM Workshop on Artificial Intelligence and Security
-  title: Malware Detection on Highly Imbalanced Data through~Sequence~Modeling
+  title: |2- Malware Detection on Highly Imbalanced Data through~Sequence~Modeling
   url: "https://dl.acm.org/doi/pdf/10.1145/3338501.3357374"
-item:  
 - date_start: "2020-07-25"
-  description: "Jagadheesh Samala, Harshvardhan Takawale, Yash Chokhani, P Veda Bhanu, J Soumya"
+  description: |2- "Jagadheesh Samala, Harshvardhan Takawale, Yash Chokhani, P Veda Bhanu, J Soumya"
   organization: 24th International Symposium on VLSI Design and Test (VDAT)
-  title: Fault-Tolerant Routing Algorithm for Mesh based NoC using Reinforcement Learning
-  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9190340"
-item:  
-- date_start: "2018-10-25"
-  description: "Harshvardhan C Takawale and Abhishek Thakur"
-  organization: 5th International Conference on Internet of Things: Systems, Management & Security
+  title: |2- Fault-Tolerant Routing Algorithm for Mesh based NoC using Reinforcement Learning
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9190340"  
+- date_end: ""
+  date_start: "2018-10-25"
+  description: |2- "Harshvardhan C Takawale and Abhishek Thakur"
+  organization: |2- 5th International Conference on Internet of Things: Systems, Management & Security
   title: Talos App: On-Device Machine Learning Using TensorFlow to Detect Android Malware
   url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8554572"
+  
 
 design:
   columns: '2' 
