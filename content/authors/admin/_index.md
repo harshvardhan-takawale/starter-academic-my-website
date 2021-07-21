@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Research Assistant at Silence Laboratories. We work on creating solutions to real-world problems using the knowledge of sensing, wireless networks and security paradigms. My recent work revolves around developing signal processing algorithms for Acoustic and IMU sensor signals.
+I am a Research Assistant at Silence Laboratories. I work on creating solutions to real-world problems using the knowledge of sensing, wireless networks and security paradigms. My recent work revolves around developing signal processing algorithms for Acoustic and IMU sensor signals.
 
 I finished my B.E in Electronics and Electrical Engineering and Data Science(Minor) at BITS, Pilani - Hyderabad campus in August 2020. 
 
