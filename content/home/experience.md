@@ -51,7 +51,7 @@ experience:
     date_start: '2020-01-01'
     date_end: '2020-07-31'
     description: |2-
-         Project: Malware Detection on Highly Imbalanced Data through Sequence Modeling(undergraduate thesis)
+         Project Title: Malware Detection on Highly Imbalanced Data through Sequence Modeling(undergraduate thesis)
          
          Performed dynamic analysis on mobile application activity sequences for the purpose of malware detection on highly imbalanced dataset.
          Used the state-of-the-art language representation model BERT, to create a sequential model and achieved an F1 score of 0.919 with just 0.5\% of the examples being malware in the dataset.
@@ -67,6 +67,18 @@ experience:
 
         Developed a protocol to authenticate users based on their interaction with the phone using anomaly in inertial sensor data.
         Analysed across 6 different classification models and achieved 95–97\% accuracy for each, when tested using tenfold cross validation.        
+        
+  - title: Software Engineer Intern
+    company: Indian Meteorological Department
+    company_url: ''
+    location: Pune, India
+    date_start: '2019-05-01'
+    date_end: '2019-08-31'
+    description: |2-
+        Created a low cost data logger and interfaced it with varios sensors present in automated weather station (AWS).
+ 
+        Created a mobile application and RESTful API for receiving data from the station in real-time.
+        Achieved 80\% cost optimization and ensured high reliability over extensive periods of testing.            
 
 design:
   columns: '2'
