@@ -25,12 +25,11 @@ experience:
   - title: Research Assistant
     company: Silence Laboratories
     company_url: 'https://silencelaboratories.com/'
-    company_logo: org-gc
+    company_logo: 
     location: Singapore
     date_start: '2020-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         Project 1: Proximity detection and verification of devices
         Designed a robust system aimed at verifying co-presence of two or multi-party systems using acoustic information and pair them using shared secret key. Achieved accuracy of $>$92\% across different scenarios when tested in noisy markets of India.
         
@@ -46,14 +45,20 @@ experience:
         All the projects are in line to be deployed with agreed customer companies as part of trials and filed as patents.
 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Security Research Intern
+    company: Cyber Security Research Centre @ NTU, Singapore 
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Singapore
+    date_start: '2020-01-01'
+    date_end: '2020-07-31'
+    description: 
+
+         Title: Malware Detection on Highly Imbalanced Data through Sequence Modeling
+
+         Performed dynamic analysis on mobile application activity sequences for the purpose of malware detection on highly imbalanced dataset.
+
+         Used the state-of-the-art language representation model BERT, to create a sequential model and achieved an F1 score of 0.919 with just 0.5\% of the examples being malware in the dataset.
 
 design:
   columns: '2'
