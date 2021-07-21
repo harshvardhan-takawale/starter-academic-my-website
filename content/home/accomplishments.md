@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-06-05"
   date_end = ""
-  description = "Singapore Patent: Second Factor Authentication for Mobility:  Ways to identify frauds and mischarges. US Patent pending"
+  description = "Singapore Patent- Second Factor Authentication for Mobility:  Ways to identify frauds and mischarges. (US Patent pending)"
 
 [[item]]
   organization = "Google Developers"
