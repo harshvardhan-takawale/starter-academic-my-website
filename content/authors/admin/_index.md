@@ -39,4 +39,4 @@ highlight_name: false
 ---
 I am a Research Assistant at Silence Laboratories. I recently finished my B.E in Electronics and Electrical Engineering and Data Science(Minor) at BITS, Pilani - Hyderabad campus. My research interests are signal processing, wireless networks, security, ubiquitous computing, Acoustics and applied machine learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Harsh_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
