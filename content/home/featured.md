@@ -28,11 +28,13 @@ item:
   organization: Proceedings of the 12th ACM Workshop on Artificial Intelligence and Security
   title: Malware Detection on Highly Imbalanced Data through~Sequence~Modeling
   url: "https://dl.acm.org/doi/pdf/10.1145/3338501.3357374"
+item:  
 - date_start: "2020-07-25"
   description: "Jagadheesh Samala, Harshvardhan Takawale, Yash Chokhani, P Veda Bhanu, J Soumya"
   organization: 24th International Symposium on VLSI Design and Test (VDAT)
   title: Fault-Tolerant Routing Algorithm for Mesh based NoC using Reinforcement Learning
   url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9190340"
+item:  
 - date_start: "2018-10-25"
   description: "Harshvardhan C Takawale and Abhishek Thakur"
   organization: 5th International Conference on Internet of Things: Systems, Management & Security
