@@ -31,7 +31,7 @@ organizations:
 education:
   courses:
     - course: B.E. Electrical and Electronics(Major), Data Science(Minor)
-      institution: Birla Institute of Technology ans Science, Pilani - Hyderabad Campus
+      institution: Birla Institute of Technology and Science, Pilani - Hyderabad Campus
       year: 2020
 email: ""
 superuser: true
